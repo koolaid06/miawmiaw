@@ -6,3 +6,6 @@ int speedUp = [] {
   std::cout.tie(nullptr);
   return 0;
 }();
+
+
+// hahaha heheheh huhuhuh
